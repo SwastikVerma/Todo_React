@@ -1,15 +1,3 @@
-
-
-// export const Todos = () => {
-//   return (
-//     <>
-//     <div>
-//         todos works!!!
-//     </div>
-//     </>
-//   )
-// }
-
 import { TodoItem } from "./todoItem"
 
 export const Todos=(props) =>{
@@ -20,11 +8,3 @@ export const Todos=(props) =>{
       </div>
     )
 }
-
-
-// {/* {props.todos.map((todo) => (
-//         <div key={todo.sno}>
-//           <h4>{todo.title}</h4>
-//           <p>{todo.desc}</p>
-//         </div>
-//       ))} */}

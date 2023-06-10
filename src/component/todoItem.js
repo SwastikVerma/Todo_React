@@ -1,10 +1,6 @@
-
-
-
 export const TodoItem = (props) => {
  
   return (
-    
     <>
       {props.todo.map((item)=>(
         <div key={item.sno}>
