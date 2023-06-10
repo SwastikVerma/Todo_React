@@ -23,6 +23,9 @@ function App() {
     <Header title="HOLA" SearchBar={true}/>
     <Todos todos={todos}/>
     <Footer />
+    <Footer />
+    <Footer />
+    
     </>
     
     
